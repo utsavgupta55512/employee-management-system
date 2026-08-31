@@ -1,0 +1,103 @@
+{
+  "employees": [
+    {
+      "name": "utsav kumar",
+      "email": "utsav@gmail.com",
+      "phone": "55694536",
+      "department": "IT",
+      "salary": "25000",
+      "status": "Active",
+      "id": 1
+    },
+    {
+      "name": "ritik ",
+      "email": "ritik@gmail.com",
+      "phone": "645323215",
+      "department": "pharma",
+      "salary": "80000",
+      "status": "Active",
+      "id": 3
+    },
+    {
+      "name": "Rahul",
+      "email": "rahul@gmail.com ",
+      "phone": "634562231",
+      "department": "HR",
+      "salary": "45000",
+      "status": "Active",
+      "id": 4
+    },
+    {
+      "name": "ishika bhadani",
+      "email": "ishika@gmail.com ",
+      "phone": "634562235",
+      "department": "finance",
+      "salary": "15000",
+      "status": "Active",
+      "id": 6
+    },
+    {
+      "name": "sandhya",
+      "email": "sandhya@gmail.com",
+      "phone": "9532632152",
+      "department": "finance",
+      "salary": "3000",
+      "status": "Active",
+      "id": 7
+    },
+    {
+      "name": "sandhya kumari ",
+      "email": "sandhya@gmail.com",
+      "phone": "1145112232",
+      "department": "HR",
+      "salary": "30000",
+      "status": "Active",
+      "id": 8
+    },
+    {
+      "name": "supriya kumari",
+      "email": "supriya@gmail.com",
+      "phone": "3232452120",
+      "department": "finance",
+      "salary": "25000",
+      "status": "Active",
+      "id": 9
+    },
+    {
+      "name": "umesh kumar",
+      "email": "umesh@gmail.coim",
+      "phone": "5623515522",
+      "department": "pharma",
+      "salary": "52000",
+      "status": "Active",
+      "id": 10
+    },
+    {
+      "name": "kunal kumar",
+      "email": "kunal@gmail.com",
+      "phone": "2620035223",
+      "department": "HR",
+      "salary": "52322",
+      "status": "Active",
+      "id": 11
+    },
+    {
+      "name": "shalu kmari",
+      "email": "shalu@gmail.com",
+      "phone": "5626315640",
+      "department": "IT",
+      "salary": "58000",
+      "status": "Active",
+      "id": 12
+    },
+    {
+      "name": "aman kkumar",
+      "email": "aman@gmail.com",
+      "phone": "3562131513",
+      "department": "civil",
+      "salary": "50000",
+      "status": "Active",
+      "id": 13
+    }
+  ]
+}
