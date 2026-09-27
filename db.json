@@ -28,22 +28,13 @@
       "id": 4
     },
     {
-      "name": "ishika bhadani",
-      "email": "ishika@gmail.com ",
+      "name": "Kunal kumar",
+      "email": "kunal@gmail.com ",
       "phone": "634562235",
       "department": "finance",
       "salary": "15000",
       "status": "Active",
       "id": 6
-    },
-    {
-      "name": "sandhya",
-      "email": "sandhya@gmail.com",
-      "phone": "9532632152",
-      "department": "finance",
-      "salary": "3000",
-      "status": "Active",
-      "id": 7
     },
     {
       "name": "sandhya kumari ",
@@ -98,6 +89,15 @@
       "salary": "50000",
       "status": "Active",
       "id": 13
+    },
+    {
+      "name": "rakesh kumar",
+      "email": "rakesh@gamil.com",
+      "phone": "1354532135",
+      "department": "hr",
+      "salary": "30000",
+      "status": "Active",
+      "id": 14
     }
   ]
 }
