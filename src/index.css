@@ -107,11 +107,6 @@ button {
   gap: 12px;
 }
 
-.notification {
-  font-size: 18px;
-  margin-right: 8px;
-  cursor: pointer;
-}
 
 .user-avatar {
   width: 38px;

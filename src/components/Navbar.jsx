@@ -13,7 +13,6 @@ function Navbar({search, setSearch}) {
       </div>
 
       <div className="navbar-user">
-        <span className="notification">🔔</span>
         <div className="user-avatar">U</div>
         <span className="user-name">Utsav</span>
       </div>

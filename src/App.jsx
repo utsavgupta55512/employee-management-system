@@ -1,4 +1,4 @@
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { BrowserRouter, Routes, Route, Navigate  } from "react-router-dom";
 
 import Dashboard from "./pages/Dashboard";
 import Employees from "./pages/Employees";
@@ -22,10 +22,12 @@ function App() {
             />
           }
         >
+           <Route index element={<Navigate to="/dashboard" replace />} />
           <Route path="/dashboard" element={<Dashboard />} />
           <Route path="/employees" element={<Employees />} />
           <Route path="/add-employee" element={<AddEmployee />} />
           <Route path="/edit-employee/:id" element={<Edit />} />
+           <Route path="*" element={<h2>Page not found</h2>} />
         </Route>
 
       </Routes>
