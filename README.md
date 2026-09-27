@@ -1,16 +1,52 @@
-# React + Vite
+# Employee Management System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive employee management web application built with React.js and JSON Server, featuring complete CRUD functionality, search, filtering, sorting, and a dynamic dashboard.
 
-Currently, two official plugins are available:
+## Screenshots
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+### Dashboard
+![Dashboard](./screenshots/dashboard.png.png)
 
-## React Compiler
+### Employees List
+![Employees List](./screenshots/employees-list.png.png)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### Search Employee
+![Search Employee](./screenshots/search-employee.png.png)
 
-## Expanding the ESLint configuration
+### Add Employee
+![Add Employee](./screenshots/add-employee.png.png)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Add Employee Success
+![Add Employee Success](./screenshots/add-employee-suc.png.png)
+
+### Update Employee
+![Update Employee](./screenshots/update-employee.png.png)
+
+### Delete Employee
+![Delete Employee](./screenshots/delete-employee.png.png)
+
+## Features
+- Add, edit, delete employees (CRUD)
+- Search, filter by department/status, and sort
+- Form validation with error messages
+- Delete confirmation modal
+- Dashboard with live employee statistics
+
+## Tech Stack
+React.js, React Router, JSON Server, CSS3
+
+## Live Demo
+[Add your live link here]
+
+## Getting Started
+\`\`\`bash
+git clone <your-repo-url>
+cd employee-management-system
+npm install
+npm run dev
+\`\`\`
+
+In a separate terminal, run the mock backend:
+\`\`\`bash
+npx json-server --watch db.json --port 5000
+\`\`\`
